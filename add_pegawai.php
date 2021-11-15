@@ -491,7 +491,8 @@ if(@$_SESSION['Admin'] || @$_SESSION['Pimpinan'] || @$_SESSION['Pegawai']) {
 </body>
 
 <!-- InstanceEnd --></html>
-<?php 
+<?php
+}
 } else {
   ?> 
   <script type="text/javascript">
