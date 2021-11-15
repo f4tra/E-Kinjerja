@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_tgs_tambahan" value="name:id_tgs_tambahan;datatype:string,name:id_pegawai;datatype:string,name:ket;datatype:string,name:file_upload;datatype:string,name:tgl;datatype:date,name:nilai;datatype:string" />
+</info>

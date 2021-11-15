@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pgw" value="name:id_pegawai;datatype:string,name:id_jabatan;datatype:string,name:nik;datatype:string,name:nama;datatype:string,name:jk;datatype:string,name:status;datatype:string,name:unit_kerja;datatype:string,name:bidang;datatype:string" />
+	<infoitem key="UD_cari_pgw" value="name:id_pegawai;datatype:string,name:id_jabatan;datatype:string,name:nik;datatype:string,name:nama;datatype:string,name:jk;datatype:string,name:status;datatype:string,name:unit_kerja;datatype:string,name:bidang;datatype:string" />
+</info>

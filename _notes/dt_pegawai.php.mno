@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dt_pegawai" value="name:id_pegawai;datatype:string,name:id_tugas_kreatif;datatype:string,name:id_bagian;datatype:string,name:id_jabatan;datatype:string,name:id_status;datatype:string,name:id_tugas_tambahan;datatype:string,name:nik;datatype:string,name:nama;datatype:string,name:jk;datatype:string,name:unit_kerja;datatype:string,name:bidang;datatype:string" />
+</info>

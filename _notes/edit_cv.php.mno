@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_dt_diri" value="name:id_data_diri;datatype:string,name:id_pegawai;datatype:string,name:tempat_lahir;datatype:string,name:tgl_lahir;datatype:date,name:alamat_ktp;datatype:string,name:no_ktp;datatype:string,name:no_kk;datatype:string,name:sd_thn;datatype:string,name:smp_thn;datatype:string,name:sma_thn;datatype:string,name:univ_thn;datatype:string,name:jurusan;datatype:string,name:kampus;datatype:string,name:hoby;datatype:string,name:no_tlp;datatype:string,name:Pengalaman_kerja;datatype:string,name:pas_foto;datatype:string" />
+</info>

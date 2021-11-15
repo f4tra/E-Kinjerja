@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_npk" value="name:id_nilai_perilaku;datatype:string,name:id_pegawai;datatype:string,name:tgl_input_npk;datatype:date,name:orientasi_pelayanan;datatype:string,name:integritas;datatype:string,name:komitmen;datatype:string,name:disiplin;datatype:string,name:kerjasama;datatype:string,name:kepemimpinan;datatype:string,name:jumlah_npk;datatype:string,name:rata_npk;datatype:string" />
+</info>

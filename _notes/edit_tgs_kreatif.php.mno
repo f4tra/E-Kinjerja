@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_edit_tgs_kreatif" value="name:id_tgs_kreatif;datatype:string,name:id_pegawai;datatype:string,name:keterangan;datatype:string,name:file_upload;datatype:string,name:tgl_input;datatype:date,name:nilai;datatype:string" />
+</info>
